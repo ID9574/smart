@@ -1,0 +1,13 @@
+# MAVEN #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# ECLIPSE #
+.setting
+.metadata
+.classpath
+.project
+Servers/
